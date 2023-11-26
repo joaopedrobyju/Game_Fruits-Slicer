@@ -1,2 +1,1 @@
-# Game_Fruits-Slicer
-Game de cortar frutas
+# PRO-V2-C16-Modelo
